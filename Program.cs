@@ -13,7 +13,6 @@ namespace cmdtool
             
             var str = Console.ReadLine();
             Console.WriteLine(DateTime.Now.ToString() + " Hello : " + str);
-
             Console.ReadKey();
 
         }
