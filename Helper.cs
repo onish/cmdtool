@@ -11,7 +11,7 @@ namespace cmdtool
         public static void WriteLog(String Message)
         {
             Console.WriteLine(DateTime.Now.ToString());
-            Console.WriteLine(" Log Entry : " + Message);
+            Console.WriteLine(Message);
         }
     }
 }
