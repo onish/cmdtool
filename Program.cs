@@ -12,7 +12,7 @@ namespace cmdtool
         {
             
             var str = Console.ReadLine();
-            Console.WriteLine("Hello" + str);
+            Console.WriteLine("Hello: " + str);
 
             Console.ReadKey();
 
