@@ -11,7 +11,7 @@ namespace cmdtool
         static void Main(string[] args)
         {
             String str = Console.ReadLine();
-            Helper.WriteLine(str);
+            Helper.WriteLog(str);
             Console.ReadKey();
 
         }

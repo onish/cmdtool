@@ -8,7 +8,7 @@ namespace cmdtool
 {
     static class Helper
     {
-        public static void WriteLine(String Message)
+        public static void WriteLog(String Message)
         {
             Console.WriteLine(DateTime.Now.ToString() + " Log Entry : " + Message);
         }
