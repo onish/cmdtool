@@ -10,7 +10,7 @@ namespace cmdtool
     {
         public static void WriteLog(String Message)
         {
-            Console.WriteLine(DateTime.Now.ToString() + " Log Entry : " + Message);
+            Console.WriteLine(DateTime.Now.ToString() + " " + Message);
         }
     }
 }
