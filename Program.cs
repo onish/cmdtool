@@ -10,8 +10,10 @@ namespace cmdtool
     {
         static void Main(string[] args)
         {
+            
+            var str = Console.ReadLine();
+            Console.WriteLine("Hello" + str);
 
-            Console.WriteLine("Hello Shilpa!");
             Console.ReadKey();
 
         }
