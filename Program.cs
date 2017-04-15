@@ -12,7 +12,7 @@ namespace cmdtool
         {
             
             String str = Console.ReadLine();
-            Console.WriteLine(DateTime.Now.ToString() + " Hello : " + str);
+            Console.WriteLine(DateTime.Now.ToString() + " Hey : " + str);
             Console.ReadKey();
 
         }
