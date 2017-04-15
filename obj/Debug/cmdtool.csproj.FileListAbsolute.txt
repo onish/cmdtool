@@ -5,3 +5,4 @@ C:\myproject\cmdtool\cmdtool\obj\Debug\cmdtool.csprojResolveAssemblyReference.ca
 C:\myproject\cmdtool\cmdtool\obj\Debug\cmdtool.exe
 C:\myproject\cmdtool\cmdtool\obj\Debug\cmdtool.pdb
 C:\myproject\cmdtool\cmdtool2\bin\Debug\cmdtool.exe.config
+C:\myproject\cmdtool\cmdtool2\obj\Debug\cmdtool.csprojResolveAssemblyReference.cache
