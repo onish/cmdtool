@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace cmdtool
 {
-    class Program
+    static class Helper
     {
-        static void Main(string[] args)
+        public static void WriteLine(String Message)
         {
-            String str = Console.ReadLine();
-            Helper.WriteLine(str);
-            Console.ReadKey();
-
+            Console.WriteLine(DateTime.Now.ToString() + " Log Entry : " + Message);
         }
     }
 }
